@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\My studies\CLA\CLA-BOOTCAMP\Unit 1\Project\prep_unit_project-main\prep_unit_project-main\myenv2"
+VIRTUAL_ENV="C:\MyStudies\CLA\CLA-BOOTCAMP\Unit 1\Project\prep_unit_project-main\prep_unit_project-main\myenv2"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
