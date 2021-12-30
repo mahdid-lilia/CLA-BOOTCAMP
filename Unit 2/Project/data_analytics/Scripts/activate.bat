@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\MyStudies\CLA\Unit2-Project\data_analytics
+set VIRTUAL_ENV=C:\MyStudies\CLA\CLA-BOOTCAMP\Unit 2\Project\data_analytics
 
 if not defined PROMPT set PROMPT=$P$G
 
